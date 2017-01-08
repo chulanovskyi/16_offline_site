@@ -1,7 +1,5 @@
-# New Site Template
+# 16_offline_site
 
-[TODO. There will be project description]
+---
 
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+The task was to prepare html page for offline edit. All dependencies were taken into account.
